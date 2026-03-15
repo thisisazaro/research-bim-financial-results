@@ -1,0 +1,26 @@
+"stage_clean","dcf_influence","unified_metric","n_obs","mean_score","median_score","sd_score","min_score","max_score"
+"4_All stages",,"Return on investments (3)",1,5.8,5.8,,5.8,5.8
+"Construction","Construction stage schedule","Reduction in the construction schedule",3,0.131,0.17,0.0947259204230817,0.023,0.2
+"Construction","Construction stage schedule","Reduction in time of the construction schedule",3,0.16,0.13,0.10816653826392,0.07,0.28
+"Construction","Construction stage schedule_delay","Reduction in time of the construction schedule delay",5,0.29104,0.1152,0.275476692299004,0.07,0.67
+"Construction","Construction stage_CAPEX","Reduction in number of RFI",5,0.008384,0.00688,0.00326846753081624,0.00544,0.0128
+"Construction","Construction stage_CAPEX","Reduction in the cost of the rework",2,0.055296,0.055296,0.0130333921908304,0.04608,0.064512
+"Construction","Construction stage_CAPEX","Reduction in the number of the design errors",1,0.00512,0.00512,,0.00512,0.00512
+"Construction","Construction stage_CAPEX","Reduction in the overrun of the total project construction value",1,0.018,0.018,,0.018,0.018
+"Construction","Construction stage_CAPEX","Reduction in the total project construction value",5,0.02452,0.015,0.0303607806223753,0.0003,0.0769
+"Construction","Construction stage_CAPEX overrun","Reduction in the overrun of the total project construction value",13,0.112224246153846,0.0816,0.140730430313612,0.0000512,0.4
+"Construction",,"Return on investments (1)",11,4.47418181818182,3,4.7960995156102,0.16,14.2
+"Construction",,"Return on investments (2)",6,0.0346,0.0258,0.0209633737742759,0.0108,0.063
+"Design","Construction stage_CAPEX","Reduction in number of RFI",1,0.004,0.004,,0.004,0.004
+"Design","Construction stage_CAPEX overrun","Reduction in the overrun of the total project construction value",1,0.02048,0.02048,,0.02048,0.02048
+"Design","Design stage schedule","Reduction in time to complete the design stage",8,0.2175,0.2,0.157689568456509,0.006,0.41
+"Design","Design stage_CAPEX","Reduction in cost of the design stage",2,0.045,0.045,0.00707106781186548,0.04,0.05
+"Design","Design stage_CAPEX","Reduction in the number of changes of orders",9,0.0104675555555556,0.01024,0.00505307369605647,0.00128,0.02048
+"Design","Design stage_CAPEX","Reduction in the number of the design errors",3,0.01152,0.0128,0.00338656167816268,0.00768,0.01408
+"Design","Design stage_CAPEX","Reduction in the overrun of the total project construction value",2,0.00133504,0.00133504,0.00173235504536455,0.00011008,0.00256
+"Design",,"Return on investments (1)",7,2.58815714285714,1.172,2.39304993808957,0.42,6.34
+"Design",,"Return on investments (2)",6,0.0230666666666667,0.0172,0.013975582516184,0.0072,0.042
+"Operation","Maintenance obligations","Annual reduction in maintance expenditures",5,0.06628,0.0642,0.0280922053246092,0.044,0.1132
+"Operation","Maintenance obligations","Annual reduction in overall FM expenditures",1,0.0581,0.0581,,0.0581,0.0581
+"Operation","Salary","Annual reduction in salary  expenditures",3,0.0649733333333333,0.05,0.0687735569338487,0.00492,0.14
+"Operation",,"Return on investments (3)",1,0.4,0.4,,0.4,0.4

@@ -1,0 +1,4 @@
+"id","project_name","country","sector","bim_design","bim_construction","bim_operation","capex_planned_musd","term_ppp_years","annual_revenue","annual_opex","annual_net_cf","npv_base"
+"RU-001","Toll road M11 (543-646 km and 646-684 km)","Russia","Transport",FALSE,FALSE,TRUE,1068,27,16.851,15.45,1.401,-1052.6798341562
+"RU-002","Toll road WHSD","Russia","Transport",FALSE,FALSE,FALSE,7490,25,4.868,7.4465,-2.5785,-7517.52491040228
+"RU-005","Pulkovo Airport","Russia","Transport",FALSE,FALSE,FALSE,1600,30,206.816,83.2653333333333,123.550666666667,-209.093362767704

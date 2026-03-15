@@ -1,0 +1,10 @@
+"id","project_name","scenario","interpretation","bim_operation","annual_revenue","annual_opex","annual_opex_scenario","annual_net_cf","annual_net_cf_scenario","capex_planned_musd","term_ppp_years","npv_base","npv_scenario","npv_gain"
+"RU-005","Pulkovo Airport","base","Central OPEX effect (median)",FALSE,206.816,83.2653333333333,83.2653333333333,123.550666666667,123.550666666667,1600,30,-209.093362767704,-209.093362767704,0
+"RU-001","Toll road M11 (543-646 km and 646-684 km)","base","Central OPEX effect (median)",TRUE,16.851,15.45,14.552355,1.401,2.298645,1068,27,-1052.6798341562,-1042.86393817557,9.81589598062897
+"RU-002","Toll road WHSD","base","Central OPEX effect (median)",FALSE,4.868,7.4465,7.4465,-2.5785,-2.5785,7490,25,-7517.52491040228,-7517.52491040228,0
+"RU-005","Pulkovo Airport","high","Optimistic OPEX effect (75th percentile)",FALSE,206.816,83.2653333333333,83.2653333333333,123.550666666667,123.550666666667,1600,30,-209.093362767704,-209.093362767704,0
+"RU-001","Toll road M11 (543-646 km and 646-684 km)","high","Optimistic OPEX effect (75th percentile)",TRUE,16.851,15.45,14.44575,1.401,2.40525,1068,27,-1052.6798341562,-1041.69819493518,10.9816392210134
+"RU-002","Toll road WHSD","high","Optimistic OPEX effect (75th percentile)",FALSE,4.868,7.4465,7.4465,-2.5785,-2.5785,7490,25,-7517.52491040228,-7517.52491040228,0
+"RU-005","Pulkovo Airport","low","Conservative OPEX effect (25th percentile)",FALSE,206.816,83.2653333333333,83.2653333333333,123.550666666667,123.550666666667,1600,30,-209.093362767704,-209.093362767704,0
+"RU-001","Toll road M11 (543-646 km and 646-684 km)","low","Conservative OPEX effect (25th percentile)",TRUE,16.851,15.45,14.75475,1.401,2.09625,1068,27,-1052.6798341562,-1045.07716084934,7.60267330685565
+"RU-002","Toll road WHSD","low","Conservative OPEX effect (25th percentile)",FALSE,4.868,7.4465,7.4465,-2.5785,-2.5785,7490,25,-7517.52491040228,-7517.52491040228,0

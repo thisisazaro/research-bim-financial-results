@@ -1,0 +1,4 @@
+"id","project_name","capex_planned_musd","term_ppp_years","annual_net_cf","npv_base","r_hypothetical","npv_wacc_hypothetical","npv_gain_wacc_hypothetical"
+"RU-005","Pulkovo Airport",1600,30,123.550666666667,-209.093362767704,0.075,-140.818903296484,68.2744594712203
+"RU-001","Toll road M11 (543-646 km and 646-684 km)",1068,27,1.401,-1052.6798341562,0.075,-1051.97062528866,0.709208867532652
+"RU-002","Toll road WHSD",7490,25,-2.5785,-7517.52491040228,0.075,-7518.74239990172,-1.2174894994414

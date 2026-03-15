@@ -1,0 +1,4 @@
+"scenario","mean_npv","mean_npv_gain"
+"Baseline",-2926.43270244206,0
+"Actual: lower WACC only with BIM in operation",-2926.19629948621,0.236402955844217
+"Hypothetical: lower WACC for all PPP projects",-2903.84397616229,22.5887262797705

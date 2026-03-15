@@ -1,0 +1,4 @@
+"id","project_name","is_ppp","country","sector","first_year","last_year","years_obs","total_revenue","total_maintenance","total_salary"
+"RU-001","Toll road M11 (543-646 km and 646-684 km)",TRUE,"Russia","Transport",2015,2024,10,168.51,144.51,9.99
+"RU-002","Toll road WHSD",TRUE,"Russia","Transport",2005,2024,20,97.36,124.1,24.83
+"RU-005","Pulkovo Airport",TRUE,"Russia","Transport",2010,2024,15,3102.24,432.99,815.99

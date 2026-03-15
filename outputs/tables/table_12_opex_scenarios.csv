@@ -1,0 +1,4 @@
+"scenario","delta_opex","interpretation"
+"low",0.045,"Conservative OPEX effect (25th percentile)"
+"base",0.0581,"Central OPEX effect (median)"
+"high",0.065,"Optimistic OPEX effect (75th percentile)"

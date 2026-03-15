@@ -1,0 +1,10 @@
+"id","project_name","scenario","lambda","cost_share","option_mean","option_median","option_sd","option_p05","option_p50","option_p95","prob_positive"
+"RU-001","Toll road M11 (543-646 km and 646-684 km)","Central",0.5,0.02,0,0,0,0,0,0,0
+"RU-001","Toll road M11 (543-646 km and 646-684 km)","Conservative",0.3,0.03,0,0,0,0,0,0,0
+"RU-001","Toll road M11 (543-646 km and 646-684 km)","Optimistic",0.7,0.01,0.414065001944055,0,1.09537936133916,0,0,2.85780226214319,0.21595
+"RU-002","Toll road WHSD","Central",0.5,0.02,0,0,0,0,0,0,0
+"RU-002","Toll road WHSD","Conservative",0.3,0.03,0,0,0,0,0,0,0
+"RU-002","Toll road WHSD","Optimistic",0.7,0.01,0,0,0,0,0,0,0
+"RU-005","Pulkovo Airport","Central",0.5,0.02,4.02514415065716,0,6.87005650815361,0,0,18.9412291897725,0.4249
+"RU-005","Pulkovo Airport","Conservative",0.3,0.03,0.0130333279588078,0,0.260054065189774,0,0,0,0.0048
+"RU-005","Pulkovo Airport","Optimistic",0.7,0.01,18.347658657048,16.3696018843818,15.3333206555178,0,16.3696018843818,46.4507069431056,0.84105

@@ -1,0 +1,7 @@
+"item","value"
+"Number of PPP projects in WACC sensitivity layer",3
+"Baseline WACC",0.08
+"Lower WACC assumption",0.075
+"Mean baseline NPV",-2926.43270244206
+"Mean NPV gain under actual WACC scenario",0.236402955844217
+"Mean NPV gain under hypothetical WACC scenario",22.5887262797705

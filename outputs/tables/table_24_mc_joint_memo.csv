@@ -1,0 +1,9 @@
+"item","value"
+"Number of projects in joint Monte Carlo layer",3
+"Simulations per project",20000
+"Baseline WACC",0.08
+"WACC standard deviation",0.005
+"Latent correlation (log OPEX effect, WACC)",-0.3
+"Mean baseline NPV",-2926.43270244206
+"Mean simulated NPV",-2899.42390699469
+"Mean simulated NPV gain",27.0087954473695

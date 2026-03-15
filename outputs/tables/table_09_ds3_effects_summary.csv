@@ -1,0 +1,17 @@
+"stage_clean","dcf_influence","unified_metric","n_obs","mean_score","median_score","sd_score","min_score","max_score"
+"Construction","Construction stage schedule","Reduction in the construction schedule",8,0.0825,0.09,0.0305894472933769,0.02,0.12
+"Construction","Construction stage schedule_delay","Reduction in time of the construction schedule delay",9,0.0577777777777778,0.05,0.0271697339781685,0.025,0.1
+"Construction","Construction stage_CAPEX","Reduction in number of RFI",8,0.009,0.0088,0.00146580061010065,0.0072,0.012
+"Construction","Construction stage_CAPEX","Reduction in the cost of the rework",6,0.00648533333333333,0.006144,0.0015416783927482,0.00512,0.008192
+"Construction","Construction stage_CAPEX","Reduction in the number of the design errors",9,0.0116622222222222,0.01152,0.00174620859133279,0.00896,0.01408
+"Construction","Construction stage_CAPEX","Reduction in the overrun of the total project construction value",8,0.01775,0.019,0.00901981944703678,0.004,0.03
+"Construction","Construction stage_CAPEX","Reduction in the total project construction value",18,0.0253333333333333,0.0225,0.0211131405973236,0.004,0.08
+"Construction","Construction stage_CAPEX overrun","Reduction in the overrun of the total project construction value",46,0.0648428260869565,0.00575,0.140749803783768,0.00075,0.55
+"Construction",,"Return on investments (1)",3,1.64333333333333,1.85,0.493592274385786,1.08,2
+"Design","Construction stage_CAPEX","Reduction in number of RFI",9,0.00746666666666667,0.008,0.00285657137141714,0.0016,0.0104
+"Design","Design stage schedule","Reduction in time to complete the design stage",18,0.166944444444444,0.0925,0.159660843563224,0.015,0.45
+"Design","Design stage_CAPEX","Reduction in the number of changes of orders",8,0.0132,0.0128,0.00607097073904048,0.0032,0.02176
+"Design","Design stage_CAPEX","Reduction in the number of the design errors",9,0.01792,0.0192,0.00424527973165491,0.01024,0.02304
+"Design",,"Return on investments (1)",7,1.96428571428571,1.85,0.309184796028586,1.5,2.45
+"Operation","Maintenance obligations","Annual reduction in maintance expenditures",12,0.0385833333333333,0.04,0.0162450458648634,0.012,0.065
+"Operation","Salary","Annual reduction in salary expenditures",14,0.0635714285714286,0.05625,0.0325770430865623,0.0225,0.13

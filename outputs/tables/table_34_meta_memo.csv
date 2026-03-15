@@ -1,0 +1,8 @@
+"item","value"
+"Number of literature-based observations","105"
+"Mean raw BIM effect","0.766997955047619"
+"Median raw BIM effect","0.05"
+"Mean log(1 + effect)","0.292529993684495"
+"Best adjusted R-squared across models","0.638609393203808"
+"Reference model for country effects","M4: + country + year"
+"Reference model for mechanism effects","M5: + DCF groups + year"
