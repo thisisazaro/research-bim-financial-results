@@ -1,6 +1,9 @@
 
 # Research on the Financial Effects of BIM in PPP Projects
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19027303.svg)](https://doi.org/10.5281/zenodo.19027303)
+
+
 A reproducible R-based research repository on how Building Information Modeling (BIM) affects the financial performance of public-private partnership (PPP) projects through operating efficiency, risk reduction, and managerial flexibility.
 
 This repository is not just a collection of scripts. It is a structured research handoff designed to make the full analytical workflow transparent, reproducible, and defensible.
